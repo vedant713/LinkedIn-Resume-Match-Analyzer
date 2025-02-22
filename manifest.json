@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "Job Eligibility Checker",
+    "version": "1.0",
+    "description": "Check if you are eligible to apply for a job based on your resume.",
+    "permissions": ["activeTab", "storage"],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        
+        "matches": ["*://*/*"],
+        "js": ["content.js"]
+      }
+    ],
+    "web_accessible_resources": [
+    {
+      "resources": ["pdfjs/pdf.mjs", "pdfjs/pdf.worker.mjs"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+  }
