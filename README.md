@@ -55,8 +55,8 @@ The **LinkedIn Job Eligibility Checker** is a powerful Chrome extension designed
    - Confidence score
    - A brief explanation of the analysis
 
-![image](https://github.com/user-attachments/assets/84baf535-9293-47bd-be15-92762253286b)
-![image](https://github.com/user-attachments/assets/2d821fa5-5c3f-40fe-8683-34dc4fbab370)
+  ![image](https://github.com/user-attachments/assets/84baf535-9293-47bd-be15-92762253286b)
+  ![image](https://github.com/user-attachments/assets/2d821fa5-5c3f-40fe-8683-34dc4fbab370)
 
 
 ---
