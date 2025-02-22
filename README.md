@@ -1,4 +1,4 @@
-# LinkedIn Job Eligibility Checker
+# LinkedIn-Resume-Match-Analyzer
 
 ![GitHub](https://img.shields.io/badge/license-MIT-blue)
 ![GitHub](https://img.shields.io/badge/version-1.0-green)
@@ -42,7 +42,11 @@ The **LinkedIn Job Eligibility Checker** is a powerful Chrome extension designed
 ## How It Works
 
 1. **Upload Your Resume**: Click the "Upload Resume" button on the LinkedIn job posting page and upload your resume.
+![image](https://github.com/user-attachments/assets/282965c0-350d-454a-a90e-ba8ca5b4378f)
+
 2. **Analyze Job**: Click the "Analyze Eligibility" button to compare your resume with the job description.
+![image](https://github.com/user-attachments/assets/353b0340-c519-493c-bd9c-ffe285496372)
+
 3. **View Results**: The tool will display a detailed analysis of your eligibility, including:
    - Matched qualifications
    - Missing qualifications
@@ -50,6 +54,7 @@ The **LinkedIn Job Eligibility Checker** is a powerful Chrome extension designed
    - Overall eligibility
    - Confidence score
    - A brief explanation of the analysis
+![image](https://github.com/user-attachments/assets/1d4c2290-783f-4368-b98c-2345724ac01d)
 
 ---
 
