@@ -1,4 +1,4 @@
-# LinkedIn-Resume-Match-Analyzer
+![image](https://github.com/user-attachments/assets/0e6df2e3-9e6b-4cb6-a510-5b2e8c7d7c29)# LinkedIn-Resume-Match-Analyzer
 
 ![GitHub](https://img.shields.io/badge/license-MIT-blue)
 ![GitHub](https://img.shields.io/badge/version-1.0-green)
@@ -55,7 +55,9 @@ The **LinkedIn Job Eligibility Checker** is a powerful Chrome extension designed
    - Confidence score
    - A brief explanation of the analysis
 
-![image](https://github.com/user-attachments/assets/1d4c2290-783f-4368-b98c-2345724ac01d)
+![image](https://github.com/user-attachments/assets/84baf535-9293-47bd-be15-92762253286b)
+![image](https://github.com/user-attachments/assets/2d821fa5-5c3f-40fe-8683-34dc4fbab370)
+
 
 ---
 
