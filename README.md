@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0e6df2e3-9e6b-4cb6-a510-5b2e8c7d7c29)# LinkedIn-Resume-Match-Analyzer
+# LinkedIn-Resume-Match-Analyzer
 
 ![GitHub](https://img.shields.io/badge/license-MIT-blue)
 ![GitHub](https://img.shields.io/badge/version-1.0-green)
